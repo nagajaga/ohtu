@@ -1,0 +1,2 @@
+# 1. Product owner määrää sen mitä ja missä järjestyksessä toiminnallisuutta toteutetaan sovellukseen.
+# 2. On kehitetty menetelmiä (esim. planning poker), joiden avulla ohjelmiston tekemiseen vaadittava työmäärä voidaan arvioida kohtuullisen tarkasti jo ennen projektin käynnistymistä
